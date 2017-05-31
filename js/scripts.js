@@ -11,4 +11,12 @@ $(document).ready(function() {
       $(this).remove();
     });
   });
+
+/*
+  $("button#friends-button").click(function() {
+    $("#friends-showing").toggle();
+    $("#friends-hidden").toggle();
+    });
+  });
+*/
 });

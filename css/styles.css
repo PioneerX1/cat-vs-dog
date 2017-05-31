@@ -10,3 +10,7 @@ img {
 #dog-button {
   background-color: salmon;
 }
+
+#friends-showing {
+  display: none;
+}
