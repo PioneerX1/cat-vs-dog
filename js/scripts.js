@@ -12,11 +12,7 @@ $(document).ready(function() {
     });
   });
 
-/*
   $("button#friends-button").click(function() {
     $("#friends-showing").toggle();
-    $("#friends-hidden").toggle();
     });
   });
-*/
-});
